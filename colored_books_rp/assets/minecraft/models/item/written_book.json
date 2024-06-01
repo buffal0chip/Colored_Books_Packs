@@ -26,47 +26,47 @@
     },
     {
       "predicate": {"custom_model_data": 6},
-      "model": "item/pink_written_book"
+      "model": "item/red_written_book"
     },
     {
       "predicate": {"custom_model_data": 7},
-      "model": "item/magenta_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 8},
-      "model": "item/purple_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 9},
-      "model": "item/cyan_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 10},
-      "model": "item/light_blue_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 11},
-      "model": "item/blue_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 12},
-      "model": "item/lime_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 13},
-      "model": "item/green_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 14},
-      "model": "item/yellow_written_book"
-    },
-    {
-      "predicate": {"custom_model_data": 15},
       "model": "item/orange_written_book"
     },
     {
+      "predicate": {"custom_model_data": 8},
+      "model": "item/yellow_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 9},
+      "model": "item/lime_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 10},
+      "model": "item/green_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 11},
+      "model": "item/cyan_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 12},
+      "model": "item/light_blue_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 13},
+      "model": "item/blue_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 14},
+      "model": "item/purple_written_book"
+    },
+    {
+      "predicate": {"custom_model_data": 15},
+      "model": "item/magenta_written_book"
+    },
+    {
       "predicate": {"custom_model_data": 16},
-      "model": "item/red_written_book"
+      "model": "item/pink_written_book"
     }
   ]
 }
