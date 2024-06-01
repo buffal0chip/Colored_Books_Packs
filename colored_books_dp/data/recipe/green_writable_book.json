@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:green_dye"
+      },
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:book"
+      }
+    ],
+    "result": {
+      "id": "minecraft:writable_book",
+      "components": {
+        "minecraft:custom_model_data": 13
+      }
+    }
+  }  
