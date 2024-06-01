@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "category": "misc",
     "group": "colored_book",
     "ingredients": [
       {
@@ -18,7 +19,7 @@
     "result": {
       "id": "minecraft:writable_book",
       "components": {
-        "minecraft:custom_model_data": 6
+        "minecraft:custom_model_data": 16
       }
     }
   }  
