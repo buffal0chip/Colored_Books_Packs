@@ -1,5 +1,7 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "colored_book",
     "ingredients": [
       {
         "item": "minecraft:purple_dye"
@@ -17,7 +19,7 @@
     "result": {
       "id": "minecraft:writable_book",
       "components": {
-        "minecraft:custom_model_data": 8
+        "minecraft:custom_model_data": 14
       }
     }
   }  
