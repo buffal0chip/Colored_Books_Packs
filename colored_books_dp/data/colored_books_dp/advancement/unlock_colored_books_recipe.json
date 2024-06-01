@@ -1,0 +1,36 @@
+{
+  "parent": "entorais:recipes/root",
+  "criteria": {
+    "has_writable_book_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:writable_book"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_writable_book_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "colored_books_dp:white_writable_book",
+      "colored_books_dp:light_gray_writable_book",
+      "colored_books_dp:gray_writable_book",
+      "colored_books_dp:black_writable_book",
+      "colored_books_dp:brown_writable_book",
+      "colored_books_dp:red_writable_book",
+      "colored_books_dp:orange_writable_book",
+      "colored_books_dp:yellow_writable_book",
+      "colored_books_dp:lime_writable_book",
+      "colored_books_dp:green_writable_book",
+      "colored_books_dp:cyan_writable_book",
+      "colored_books_dp:light_blue_writable_book",
+      "colored_books_dp:blue_writable_book",
+      "colored_books_dp:purple_writable_book",
+      "colored_books_dp:magenta_writable_book",
+      "colored_books_dp:pink_writable_book"
+    ]
+  }
+}
